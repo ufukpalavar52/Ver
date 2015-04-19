@@ -1,0 +1,1 @@
+Create index client_master_index1 ON client_master(client_no)

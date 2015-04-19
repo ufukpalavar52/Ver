@@ -1,0 +1,10 @@
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('1', 'Ağlar');
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('2', 'Bilgisayar Donanımları');
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('3', 'Yazılım Güvenliği');
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('4', 'Veritabanları');
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('5', 'İşletim Sistemleri');
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('6', 'Programlama');
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('7', 'İnşaat Bilimleri');
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('8', 'Çevre Bilimleri');
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('9', 'Elektronik');
+INSERT INTO `kitapevi`.`subject` (`subject_no`,`stitle`) VALUES ('10', 'Enerji');

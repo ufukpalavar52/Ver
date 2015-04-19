@@ -1,0 +1,1 @@
+SELECT book.`name`,price  from book WHERE price > (SELECT AVG(price) from book);

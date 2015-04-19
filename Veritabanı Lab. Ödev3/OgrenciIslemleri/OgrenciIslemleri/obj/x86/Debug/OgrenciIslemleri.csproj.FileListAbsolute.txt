@@ -1,0 +1,8 @@
+C:\Users\toshıba\documents\visual studio 2010\Projects\OgrenciIslemleri\OgrenciIslemleri\bin\Debug\OgrenciIslemleri.exe
+C:\Users\toshıba\documents\visual studio 2010\Projects\OgrenciIslemleri\OgrenciIslemleri\bin\Debug\OgrenciIslemleri.pdb
+C:\Users\toshıba\documents\visual studio 2010\Projects\OgrenciIslemleri\OgrenciIslemleri\obj\x86\Debug\OgrenciIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\toshıba\documents\visual studio 2010\Projects\OgrenciIslemleri\OgrenciIslemleri\obj\x86\Debug\OgrenciIslemleri.Form1.resources
+C:\Users\toshıba\documents\visual studio 2010\Projects\OgrenciIslemleri\OgrenciIslemleri\obj\x86\Debug\OgrenciIslemleri.Properties.Resources.resources
+C:\Users\toshıba\documents\visual studio 2010\Projects\OgrenciIslemleri\OgrenciIslemleri\obj\x86\Debug\OgrenciIslemleri.csproj.GenerateResource.Cache
+C:\Users\toshıba\documents\visual studio 2010\Projects\OgrenciIslemleri\OgrenciIslemleri\obj\x86\Debug\OgrenciIslemleri.exe
+C:\Users\toshıba\documents\visual studio 2010\Projects\OgrenciIslemleri\OgrenciIslemleri\obj\x86\Debug\OgrenciIslemleri.pdb

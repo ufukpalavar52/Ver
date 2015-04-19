@@ -1,0 +1,1 @@
+Execute ogrenciEkleme '12060717','Ufuk','Palavar','1993-01-01','Mimar Sinan Mah.','05315141450',1,70,80

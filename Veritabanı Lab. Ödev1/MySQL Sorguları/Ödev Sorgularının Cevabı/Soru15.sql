@@ -1,0 +1,1 @@
+SELECT *FROM book LIMIT 10, 10;

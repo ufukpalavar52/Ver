@@ -1,0 +1,1 @@
+Drop view client_view

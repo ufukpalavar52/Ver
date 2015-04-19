@@ -1,0 +1,1 @@
+INSERT INTO `kitapevi`.`cover` (`subject_no`, `book_no`) SELECT `subject_no`,`book_no` FROM `book` 

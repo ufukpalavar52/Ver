@@ -1,0 +1,1 @@
+INSERT INTO studies([student_no],[subject_no]) SELECT TOP 27 buys.student_no,book.subject_no FROM book,buys WHERE buys.book_no=book.book_no

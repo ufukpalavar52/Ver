@@ -1,0 +1,1 @@
+delete from tOgrenci where ogrenciID = '10080212'

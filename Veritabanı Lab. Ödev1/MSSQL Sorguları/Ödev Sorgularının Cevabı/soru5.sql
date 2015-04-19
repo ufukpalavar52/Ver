@@ -1,0 +1,1 @@
+Select TOP 10 book.name,price from book  ORDER BY price DESC

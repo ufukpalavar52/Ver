@@ -1,0 +1,1 @@
+Select  book.`name`,price from book  ORDER BY price DESC limit 10; 
