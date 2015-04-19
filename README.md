@@ -1,1 +1,1 @@
-# Ver
+# Veri tabanı labaratuvar ödevleri
