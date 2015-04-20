@@ -20,8 +20,8 @@ namespace OgrenciIslemleri
         {
             InitializeComponent();
         }
-        SqlConnection conection = new SqlConnection(); 
-
+        SqlConnection conection = new SqlConnection();
+        
 
         private void OgrenciEkle_Click(object sender, EventArgs e)
         {
@@ -96,11 +96,13 @@ namespace OgrenciIslemleri
         {
             try
             {
+                
                 conection.ConnectionString = "Server=USER\\UFUK;Database=Ogrenci;Trusted_Connection=true;";
                 conection.Open();
-                String sql = "Exec OgrenciListesi";
+                SqlParameter id = new SqlParameter("@bolumID", bolumID.Text);
+                String sql = "Exec OgrenciListesi @bolumID";
                 SqlCommand cmd = new SqlCommand(sql, conection);
-
+                cmd.Parameters.Add(id);
                 SqlDataAdapter da = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
@@ -116,5 +118,9 @@ namespace OgrenciIslemleri
             }
 
         }
+
+        
+
+        
     }
 }

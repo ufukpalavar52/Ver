@@ -52,6 +52,8 @@
             this.Listele = new System.Windows.Forms.Button();
             this.ogrenciSayisi = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
+            this.bolumID = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.ogrenciList)).BeginInit();
             this.SuspendLayout();
             // 
@@ -230,7 +232,7 @@
             // 
             // Listele
             // 
-            this.Listele.Location = new System.Drawing.Point(18, 170);
+            this.Listele.Location = new System.Drawing.Point(198, 167);
             this.Listele.Name = "Listele";
             this.Listele.Size = new System.Drawing.Size(148, 23);
             this.Listele.TabIndex = 25;
@@ -254,11 +256,29 @@
             this.label10.TabIndex = 27;
             this.label10.Text = "Ufuk Palavar Tasarımıdır";
             // 
+            // bolumID
+            // 
+            this.bolumID.Location = new System.Drawing.Point(78, 169);
+            this.bolumID.Name = "bolumID";
+            this.bolumID.Size = new System.Drawing.Size(100, 20);
+            this.bolumID.TabIndex = 28;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(15, 172);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(47, 13);
+            this.label11.TabIndex = 29;
+            this.label11.Text = "BolumID";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1074, 519);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.bolumID);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.ogrenciSayisi);
             this.Controls.Add(this.Listele);
@@ -317,6 +337,8 @@
         private System.Windows.Forms.Button Listele;
         private System.Windows.Forms.TextBox ogrenciSayisi;
         private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox bolumID;
+        private System.Windows.Forms.Label label11;
     }
 }
 
